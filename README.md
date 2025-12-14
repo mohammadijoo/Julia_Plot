@@ -213,7 +213,7 @@ Pkg.activate(".")</code></pre>
 
 If VS Code is launching Julia 1.7 (and activating `v1.7`), but you installed Julia 1.10+ separately, configure the Julia extension to use the newer executable:
 
-- VS Code → **Settings** → search for **Julia: Executable Path**
+- VS Code → **command palette** (ctrl + shift + p) → **Settings** → search for **Julia: Executable Path**
 - Point it to your Julia 1.10+ `julia.exe`
 
 You can verify the current Julia version in the VS Code REPL:
