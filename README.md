@@ -349,13 +349,13 @@ This installs dependencies and generates `Project.toml` and `Manifest.toml` loca
 
 From the repository root:
 
-<pre><code>julia --project=. line.jl</code></pre>
+<pre><code>include("line.jl")</code></pre>
 
 ### 3) Run histograms
 
 From the repository root:
 
-<pre><code>julia --project=. histogram.jl</code></pre>
+<pre><code>include("histogram.jl")</code></pre>
 
 ---
 
