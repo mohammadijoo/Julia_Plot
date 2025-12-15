@@ -608,15 +608,9 @@ To add new histogram examples, follow the same pattern:
 
 At the end of the workflow, you can watch the full implementation and walkthrough on YouTube.
 
-<!--
-Replace YOUR_VIDEO_ID with your actual YouTube video ID.
-Example URL format: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-Example thumbnail format: https://i.ytimg.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg
--->
-
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+<a href="https://www.youtube.com/watch?v=FZRg3tLwmik" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/FZRg3tLwmik/maxresdefault.jpg"
     alt="Julia Plotting - Implementation Tutorial"
     style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-top: 0.5rem;"
   />
