@@ -22,15 +22,15 @@
 <!-- ========================================================= -->
 
 <ul style="list-style: none; padding-left: 0; font-size: 0.95rem;">
-  <li>• <a href="#about-this-repository">About this repository</a></li>
-  <li>• <a href="#install-julia-and-plotting-packages">Install Julia and plotting packages</a></li>
-  <li>• <a href="#why-the-first-run-can-take-tens-of-minutes">Why the first run can take “couple of minutes”</a></li>
-  <li>• <a href="#running-with-vs-code-recommended">Running with VS Code (recommended)</a></li>
-  <li>• <a href="#running-without-vs-code-terminal-cmd-git-bash">Running without VS Code (Terminal / cmd / Git Bash)</a></li>
-  <li>• <a href="#outputs-where-images-are-saved">Outputs (where images are saved)</a></li>
-  <li>• <a href="#line-plots-module-linejl">Line plots module (<code>line.jl</code>)</a></li>
-  <li>• <a href="#histogram-plots-module-histogramjl">Histogram plots module (<code>histogram.jl</code>)</a></li>
-  <li>• <a href="#implementation-tutorial-video">Implementation tutorial video</a></li>
+  <li> <a href="#about-this-repository">About this repository</a></li>
+  <li> <a href="#install-julia-and-plotting-packages">Install Julia and plotting packages</a></li>
+  <li> <a href="#why-the-first-run-can-take-tens-of-minutes">Why the first run can take “couple of minutes”</a></li>
+  <li> <a href="#running-with-vs-code-recommended">Running with VS Code (recommended)</a></li>
+  <li> <a href="#running-without-vs-code-terminal-cmd-git-bash">Running without VS Code (Terminal / cmd / Git Bash)</a></li>
+  <li> <a href="#outputs-where-images-are-saved">Outputs (where images are saved)</a></li>
+  <li> <a href="#line-plots-module-linejl">Line plots module (<code>line.jl</code>)</a></li>
+  <li> <a href="#histogram-plots-module-histogramjl">Histogram plots module (<code>histogram.jl</code>)</a></li>
+  <li> <a href="#implementation-tutorial-video">Implementation tutorial video</a></li>
 </ul>
 
 ---
