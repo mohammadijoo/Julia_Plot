@@ -9,7 +9,7 @@
     Future extensions can be added as new plot modules (e.g., pie charts, scatter plots, etc.).
   </p>
 
-  <p style="font-size: 0.85rem; color: #666; margin-top: 0.5em;">
+  <p align="center" style="font-size: 0.85rem; color: #666; margin-top: 0.5em;">
     Built with Julia, Plots.jl, and selectable rendering backends (GR / PythonPlot).
   </p>
 
