@@ -1,6 +1,6 @@
-<div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6;">
+<div  style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6;">
 
-  <h1 style="margin-bottom: 0.2em;">Julia Plotting Playground</h1>
+  <h1 align="center" style="margin-bottom: 0.2em; ">Julia Plotting Playground</h1>
   <p style="font-size: 0.95rem; max-width: 760px; margin: 0 auto;">
     A minimal, extensible repository showcasing plotting in <strong>Julia</strong> using
     <strong><a href="https://github.com/JuliaPlots/Plots.jl" target="_blank">Plots.jl</a></strong>.
